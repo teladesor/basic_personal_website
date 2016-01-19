@@ -1,8 +1,24 @@
 body {
-	background-color: #00FFFF;
+	
+	font-family: "Helvetica", sans-serif;
+	text-align: center;
+	background: url("http://dash.ga.co/assets/anna-bg.png");
+      background-size: cover;
 }	
+
+p {
+	color: #90EE90;
+}
+
+h1 {
+	color: #00FFFF;
+}
+h4{
+	color: #00FFFF;
+}
 h3 {
 	color:#B8860B;
+	font-style: oblique;
 }
 
 h5 {
@@ -14,3 +30,15 @@ a:visited {
 }
 
 img {border-width: 2px; border-style: solid;border-color: black;}
+
+h1 {
+	
+	font-family: "HImpact", fantasy;
+	font-style: oblique;
+}	
+
+ul {
+	color: #FF0000;
+}
+
+
