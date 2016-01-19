@@ -1,0 +1,16 @@
+body {
+	background-color: #00FFFF;
+}	
+h3 {
+	color:#B8860B;
+}
+
+h5 {
+	color:	#8B0000;
+}
+
+a:visited {
+	color: red;
+}
+
+img {border-width: 2px; border-style: solid;border-color: black;}
